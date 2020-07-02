@@ -1,3 +1,5 @@
+# ngis TEST 작업입니다.
+
 import sys
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QMainWindow, QAction, qApp, QMenu, QGridLayout, QLabel, QTextEdit, QLineEdit, QDialog, QPushButton
